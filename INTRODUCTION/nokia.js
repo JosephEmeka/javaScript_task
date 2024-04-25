@@ -17,7 +17,7 @@ console.log(`
 12. Profiles
 13. SIM services
 `)
-};
+}
 
 
 function userImputForMainMenu(){
